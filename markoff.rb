@@ -69,7 +69,7 @@ mark = Markoff.new()
   mark.feed(NumbersInWords.in_words(r))
 end
 
-File.open("50_Thousand_Fake_Numbers_With_Normal_Deviates.txt", 'a') do |file|
+File.open("Fake_Numbers_With_Normal_Deviates.txt", 'a') do |file|
   300.times do
     word = mark.generate_double()
     if !valid_number(word)

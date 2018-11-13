@@ -73,7 +73,7 @@ def is_number(word):
     return False
 
 number_count = 0
-f = open('50_Thousand_Fake_Numbers_With_Normal_Deviates.txt', 'a')
+f = open('Fake_Numbers_With_Normal_Deviates.txt', 'a')
 # We want 50,000 numbers, cause it's NaNoWriMo!
 # However my computer prefers to take breaks sometimes, so I made it in chunks
 # 15,955
