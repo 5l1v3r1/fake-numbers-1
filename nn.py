@@ -11,7 +11,7 @@ from keras.layers.core import Dense, Activation, Dropout
 # All unique characters used in numbers
 chars = list(" abdefghilmnorstuvwxyz,-\n")
 
-# the fixed vector, the window characters we're looking at
+# the fixed vector, the window of characters we're looking at
 max_len = 20
 
 model = Sequential()
@@ -73,7 +73,10 @@ def generate(temperature=0.35, seed=None, num_chars=200):
   if seed is not None and len(seed) < max_len:
     raise Exception('seed text must be at least {} chars long'.format(max_len))
   else:
-    seed = rand_word()[-max_len:]
+    word = rand_word()
+    while len(word) < max_len:
+      word += rand_word()
+    seed = word[-max_len:]
 
   sentence = seed
   generated = sentence
