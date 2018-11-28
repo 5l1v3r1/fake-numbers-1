@@ -1,7 +1,6 @@
 # Twelve Thousand Fake Numbers With Normal Deviates
 
 *Sixtmenhreene hildse, seventy-seven thousand, seven hundred and twenty-seve*
-
 *Tyinty-eight*
 
 *Swven hundred and seventy-four thousand,teegght hundred and fouty*
