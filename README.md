@@ -1,17 +1,12 @@
 # Twelve Thousand Fake Numbers With Normal Deviates
 
-*Sixtmenhreene hildse, seventy-seven thousand, seven hundred and twenty-seve*
-*Tyinty-eight*
-
-*Swven hundred and seventy-four thousand,teegght hundred and fouty*
-
-*Eigxty-ontyfnieemlilo nen*
-
-*Oixty-seven ty-oon zeileven thousand, fwve hundred and twenty-six,e oudssee fou  hundred and fivt*
-
-*Enin*
-
-*Yhreett*
+*Sixtmenhreene hildse, seventy-seven thousand, seven hundred and twenty-seve*  
+*Tyinty-eight*  
+*Swven hundred and seventy-four thousand,teegght hundred and fouty*  
+*Eigxty-ontyfnieemlilo nen*  
+*Oixty-seven ty-oon zeileven thousand, fwve hundred and twenty-six,e oudssee fou  hundred and fivt*  
+*Enin*  
+*Yhreett*  
 
 For [NaNoGenMo 2018](https://github.com/NaNoGenMo/2018/) I generated Twelve Thousand Fake Numbers With Normal Deviates, a collection of things which are sort of similar to numbers but are not numbers. They are available for for all of your fake number needs.
 
